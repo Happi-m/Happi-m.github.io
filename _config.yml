@@ -22,7 +22,7 @@ repository               : "Happi-m/happimi-m.github.io" #仓库名称/地址
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "https://s21.ax1x.com/2025/02/04/pEZxjYT.png" #头像
   name             : "Happi"
   pronouns         : "he" # example: "she/her"  
   bio              : "个人介绍"
